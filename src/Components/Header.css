@@ -1,0 +1,43 @@
+/* src/components/Header.css .header {
+  background: #c71a1a;
+  padding: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.navbar-list {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+.header-actions {
+  display: flex;
+  gap: 1rem;
+}
+
+.header-action-btn {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.login-btn {
+  background-color: blue;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  text-decoration: none;
+} */
